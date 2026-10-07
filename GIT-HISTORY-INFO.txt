@@ -1,0 +1,5 @@
+This project contains a Git repository.
+
+The current website is saved as the initial baseline commit.
+Changes made before this repository was initialized are not represented as historical commits.
+After making future changes, use git add/commit to record them.
